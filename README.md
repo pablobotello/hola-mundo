@@ -1,4 +1,4 @@
 # hola-mundo
 Mi primer repositorio
 
-autor: Pablo otello
+autor: Pablo Botello
